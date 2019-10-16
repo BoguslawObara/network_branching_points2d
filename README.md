@@ -4,7 +4,7 @@
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/network_branching_points2d/network_branching_points/master/im/leaf_network.png" width="250"> | <img src="https://github.com/BoguslawObara/network_branching_points2d/network_branching_points/master/im/leaf_network_var.png" width="250"> |
+| <img src="https://github.com/BoguslawObara/network_branching_points2d/blob/master/im/leaf_network.png" width="250"> | <img src="https://github.com/BoguslawObara/network_branching_points2d/blob/master/im/leaf_network_var.png" width="250"> |
 
 If you find this code useful in your research and development, please consider citing:
 
