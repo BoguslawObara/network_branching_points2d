@@ -41,6 +41,6 @@ imrgb = zeros(size(im,1),size(im,2),3);
 imrgb(:,:,1) = imr; imrgb(:,:,2) = img; imrgb(:,:,3) = img;
 
 figure; 
-imagesc(imrgb); colormap gray; colormap jet; 
+imagesc(imrgb); colormap jet; 
 set(gca,'ytick',[]); set(gca,'xtick',[]); axis image; axis tight;
 
