@@ -6,6 +6,11 @@
 | ------------- | ------------- |
 | <img src="https://github.com/BoguslawObara/network_branching_points2d/blob/master/im/leaf_network.png" width="250"> | <img src="https://github.com/BoguslawObara/network_branching_points2d/blob/master/im/leaf_network_var.png" width="250"> |
 
+Required packages:
+- [blob2d](../../../blob2d)
+- [vesselness2d](../../../vesselness2d)
+
+
 If you find this code useful in your research and development, please consider citing:
 
     @inproceedings{Obara2012a,
